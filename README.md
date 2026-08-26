@@ -14,12 +14,6 @@ Python · C++ · C# · JavaScript · SQL · Solidity
 PyTorch · Hugging Face Transformers · NLP · Deep Learning ·
 Computer Vision · Reinforcement Learning
 
-**Software Engineering**
-ASP.NET Core · REST APIs · Entity Framework Core · SQL · Git · Linux
-
-**Cybersecurity**
-Linux · Bash · Networking · Secure Programming · CTFs
-
 ## Featured Projects
 
 ### Sign Language Translation
