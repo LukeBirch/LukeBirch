@@ -6,7 +6,7 @@ First-Class MEng Computer Science graduate from Durham University.
 ## Technical Skills
 
 **Languages**
-Python · C++ · C# · JavaScript · SQL · Solidity
+Python · C++ · C# · JavaScript · SQL 
 
 **AI / Machine Learning**
 PyTorch · Hugging Face Transformers · NLP · Deep Learning ·
