@@ -1,16 +1,59 @@
-## Hi there 👋
+# Luke Birch
 
-<!--
-**LukeBirch/LukeBirch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science MEng Graduate | Software Engineering | AI/ML | Cybersecurity
 
-Here are some ideas to get you started:
+First-Class MEng Computer Science graduate from Durham University with
+experience in software engineering, machine learning, NLP and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+**Languages**
+Python · C++ · C# · JavaScript · SQL · Solidity
+
+**AI / Machine Learning**
+PyTorch · Hugging Face Transformers · NLP · Deep Learning ·
+Computer Vision · Reinforcement Learning
+
+**Software Engineering**
+ASP.NET Core · REST APIs · Entity Framework Core · SQL · Git · Linux
+
+**Cybersecurity**
+Linux · Bash · Networking · Secure Programming · CTFs
+
+## Featured Projects
+
+### Sign Language Translation
+A multimodal deep learning system for gloss-free British Sign Language
+translation, developed using PyTorch, NLP and Transformers.
+
+**Technologies:** Python · PyTorch · Hugging Face · NLP · Deep Learning
+
+### LWE Cryptosystem & Cryptanalysis
+Implementation of an LWE-style public-key cryptosystem with
+experimental attacks based on linear algebra, statistical secret
+recovery and lattice-based techniques.
+
+**Technologies:** Python · NumPy · Finite Fields · Cryptography · Linear Algebra
+
+→ [View Repository](https://github.com/LukeBirch/Crypto)
+
+### Langton's Ant — C / ncurses
+
+A C implementation of Langton's Ant, a cellular automaton demonstrating
+complex emergent behaviour from simple state-based rules. Includes a
+terminal-based visualisation using ncurses.
+
+**Technologies:** C · ncurses · Linux · Make
+
+→ [View Repository](https://github.com/LukeBirch/PP_Summative)
+
+## Education
+
+**Durham University**  
+MEng Computer Science — First-Class Honours
+
+## Links
+
+[LinkedIn](www.linkedin.com/in/luke-birch-167a67198)
+
+
