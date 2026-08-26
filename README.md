@@ -20,6 +20,14 @@ translation, developed using PyTorch, NLP and Transformers.
 
 **Technologies:** Python · PyTorch · Hugging Face · NLP · Deep Learning
 
+### Jewel by Ayr — Next.js
+
+A modern, responsive single-page website developed for Jewel by Ayr, a jewellery business. The website is designed to showcase the brand and provide customers with links to external shopping platforms.
+
+**Technologies:** Next.js · React · TypeScript · Tailwind CSS
+
+→ [View Repository](https://github.com/LukeBirch/jewel-by-ayr)
+
 ### LWE Cryptosystem & Cryptanalysis
 Implementation of an LWE-style public-key cryptosystem with
 experimental attacks based on linear algebra, statistical secret
