@@ -20,6 +20,8 @@ translation, developed using PyTorch, NLP and Transformers.
 
 **Technologies:** Python · PyTorch · Hugging Face · NLP · Deep Learning
 
+→ [View Repository](https://github.com/LukeBirch/Sign-Language-Translation-Project-Report)
+
 ### Jewel by Ayr — Next.js
 
 A modern, responsive single-page website developed for Jewel by Ayr, a jewellery business. The website is designed to showcase the brand and provide customers with links to external shopping platforms.
