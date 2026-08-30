@@ -1,8 +1,6 @@
 # Luke Birch
 
-### Computer Science MEng Graduate | Software Engineering | AI/ML | Cybersecurity
-
-First-Class MEng Computer Science graduate from Durham University.
+### First-Class MEng Computer Science graduate from Durham University.
 ## Technical Skills
 
 **Languages**
